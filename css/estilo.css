@@ -1,0 +1,25 @@
+body{
+  
+  background-color: black;
+  
+}
+
+h1 {
+
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 3px 4px cornflowerblue;
+  box-shadow:  2px 1px 4px rgb(255, 255, 255);
+  
+  
+
+}
+
+h2 {
+
+  color: black;
+  text-shadow: 2px 3px 4px cornflowerblue;
+  box-shadow:  2px 1px 4px cornflowerblue;
+  
+  font-size: 3rem;
+}
+
